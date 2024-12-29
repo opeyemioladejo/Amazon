@@ -1,0 +1,94 @@
+body {
+    ;
+}
+
+/* a {
+    text-decoration: none;
+    color: inherit;
+} */
+
+/* img {
+    max-width: 100%;
+    display: block;
+} */
+
+/* Header Styles */
+.div1 {
+    background-color: #232f3e;
+    color: white;
+    /* padding: 10px 20px; */
+}
+
+.subdiv1 {
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+}
+
+/* .search {
+    flex: 1;
+    display: flex;
+} */
+
+.top-icons div {
+    /* margin-left: 15px;
+    cursor: pointer; */
+    display: flex;
+}
+
+.subdiv2 {
+    margin-top: 10px;
+}
+
+.below-top-icons {
+    /* justify-content: space-around;
+    padding: 10px 0; */
+    background-color: #37475a;
+    display: flex;
+}
+
+.div2 {
+    background-color:cornflowerblue;
+    color: white;
+    text-align: center;
+}
+
+/* .below-top-icons div {
+    cursor: pointer;
+} */
+
+/* Main Content */
+/* .div-boxes {
+    padding: 20px;
+} */
+
+/* .div-boxes-children {
+    margin-top: 30px;
+} */
+
+/* .items {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+} */
+
+.items-unit {
+    /* border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 5px; */
+    text-align: center;
+    background: #f9f9f9;
+}
+
+/* .items-unit p {
+    margin: 10px 0;
+} */
+
+.items-unit img{
+    width: 25%;
+    height: 25%;
+}
+
+section {
+    font-family: "Playwrite AU VIC Guides", serif;
+}
