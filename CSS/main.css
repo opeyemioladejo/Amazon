@@ -41,3 +41,8 @@ section {
     font-family: "Playwrite AU VIC Guides", serif;
     background-image: url('Images/rome-cathedral.jpg');
 }
+
+.search {
+    margin: 0 20px;
+    padding: 5px 10px;
+}
